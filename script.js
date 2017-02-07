@@ -44,6 +44,8 @@ require(['jquery', 'ElementQueries', 'ResizeSensor'], function(jquery, ElementQu
 			);
 		}
 
+		updateCss();
+
 		loadPage('home');
 	});
 
