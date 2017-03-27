@@ -323,7 +323,7 @@ var pageData = {
 		]
 	],
 	'moveCow': [
-		'Move That Cow!', 'cow3',
+		'Move That Cow! (Use the arrow keys)', 'cow3',
 		'interactive', [true]
 	]
 };
