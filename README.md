@@ -1,2 +1,2 @@
 # cowbook
-Generic Media Viewer with the specific intention of bringing the awesomeness of cows to the world.
+Generic Media Viewer using cows as a medium to display images, video links and interactive javascript.
